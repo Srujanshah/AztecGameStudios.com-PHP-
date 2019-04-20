@@ -1,0 +1,24 @@
+{
+    "require": {
+        "twbs/bootstrap": "^4.1",
+        "twig/twig": "^2.5",
+        "monolog/monolog": "^1.23"
+    },
+
+    "name": "sshah/aztecgamestudios",
+    "description": "Manages the online presence of AGS",
+    "minimum-stability": "stable",
+    "type": "project",
+    "license": "Apache 2.0",
+    "authors": [
+        {
+            "name": "Srujan Shah",
+            "email": "shahsrujan@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "AztecGameStudios\\": "src"
+        }
+    }
+}

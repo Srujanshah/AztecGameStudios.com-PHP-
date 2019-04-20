@@ -1,0 +1,2 @@
+# Gamingsite.com-PHP-Bootstrap
+This is a website developed using PHP and Bootstrap. I have implemented the website using MVC framework. There are many controllers using for the navigation of the pages in the website and twig files are used as views to display the output on the pages.
